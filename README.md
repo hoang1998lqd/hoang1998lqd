@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm V_Regalite (HoanngVH)</h1>
 <h3 align="center">A passionate frontend developer from VietNam</h3>
 
-- 🔭 I’m currently working on [Sample-Microservice]([https://github.com/hoang1998lqd/Sample-Microservice](https://github.com/hoang1998lqd/Shopee-Microservices-BE))
+- 🔭 I’m currently working on [Sample-Microservice](https://github.com/hoang1998lqd/Shopee-Microservices-BE)
 
 - 👨‍💻 All of my projects are available at [https://github.com/hoang1998lqd](https://github.com/hoang1998lqd)
 
